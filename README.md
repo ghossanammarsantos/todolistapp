@@ -2,7 +2,7 @@
 
 Sebuah aplikasi web untuk mencatat dan mengatur agenda kegiatan.
 
-Aplikasi web ini saya buat guna memenuhi test Frontend dari 
+Aplikasi web ini saya buat guna memenuhi test Frontend dari PT. Tri Bintang Emas Mulia 
 
 ## Fitur Aplikasi 
 
